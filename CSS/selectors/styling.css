@@ -1,0 +1,13 @@
+h1{
+    color:aqua;
+}
+.class{
+    color:blue;
+}
+#id{
+    color:brown;
+}
+*{background-color: green;}
+.k p{color:chartreuse;}
+div>p{color:blueviolet;}
+h1,h2{background-color: orange;}
