@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wdth,wght@100..125,697&family=Sixtyfour+Convergence:BLED,SCAN@53,-40&display=swap');
+.myprofile{
+   
+    h1{ 
+        font-family: "Sixtyfour Convergence", sans-serif;
+        color:rgb(255, 106, 0);
+
+    }
+    margin-color:rgb(47, 2, 30);
+    background-color:rgb(237, 239, 239)
+   
+}
+.p1{text-align:left;
+    color:rgb(37, 39, 39);
+    font-style: italic;
+}
+.p2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:blue;
+    
+ 
+}
+.img1{ border:4px solid;
+    border-color:aquamarine;  
+    text-align:center;
+}
+.l1{list-style-type: square;}
+.box{
+    padding:100px;
+    height:50px;
+    width:60px;
+    background-color:yellow;
+    border:4px solid rgb(255, 0, 21);
+    margin:50px;
+    margin-top:80px;
+    display:inline-block;
+
+}
+.box1{
+background-color:green;
+}
+.box2{background-color:blue}
+.box3{background-color:pink
+    }
+.box5{
+    border:4px solid rgba(255, 0, 238, 0.73);
+    position:fixed;
+    font-family: "Kalnia Glaze", serif;
+    top:250px;
+    right:20px;
+    padding:50px;
+    background-color:rgb(49, 249, 192)
+    
+    }
+
+
+
